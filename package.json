@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "musicplayer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiZeak/musicplayer.git"
+  },
+  "author": "Max Trewhitt <max@trewhitt.se>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpiZeak/musicplayer/issues"
+  },
+  "homepage": "https://github.com/SpiZeak/musicplayer#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "opn": "^6.0.0"
+  }
+}
